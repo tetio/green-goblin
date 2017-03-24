@@ -1,3 +1,4 @@
+.DS_STORE
 target/
 lib_managed/
 src_managed/
